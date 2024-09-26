@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Ronald Gibson, III</h1>
-<h3 align="center">A hacker that does hacker things and loves to learn and teach</h3>
+<h1 align="center">Hi 👋, I'm Ronald Gibson, III</h1><h3 align="center">A hacker that does hacker things and loves to learn and teach</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrgreengaming14&label=Profile%20views&color=0e75b6&style=flat" alt="mrgreengaming14" /> </p>
 
