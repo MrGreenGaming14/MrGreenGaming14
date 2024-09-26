@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a web scraper to find internship applications**
 
-- 🌱 I’m currently learning **C#, C, C++, and Python for explaoit development, malware development, vulnerability analysis, and application development.**
+- 🌱 I’m currently learning **C#, C, C++, and Python for exploit development, malware development, vulnerability analysis, and application development.**
 
 - ⚡ Fun fact **Maybe I was born with 12 fingers. Maybe I wasn't...**
 
