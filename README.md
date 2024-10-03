@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrgreengaming14" alt="mrgreengaming14" /></a> </p>
 
-- 🔭 I’m currently working on **a web scraper to find internship applications**
+- 🔭 I’m currently working on **a web scraper to find internship applications** for other students
 
 - 🌱 I’m currently learning **C#, C, C++, and Python for exploit development, malware development, vulnerability analysis, and application development.**
 
